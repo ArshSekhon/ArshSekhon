@@ -1,6 +1,6 @@
 ## 👋🏻 I'm Arsh Sekhon
 
-I am a Software Developer with **more than 2 years of experience** of developing **enterprise scale software**.
+I am a Software Developer with **more than 4 years of experience** of developing **enterprise scale software**.
 
 ### My Software Development Philosophy 💻💭
 - Writing good software is more of a craft than a science. 
@@ -12,13 +12,14 @@ I am a Software Developer with **more than 2 years of experience** of developing
 I love chatting about:
 -  Software Design and Architecture 💻📐
 - Clean Code & Design Principles 👩‍💻🧼
+- Custom Mechanical Keyboards ⌨️ 
 - Art & Graphics Design 🎨🖼 
 - Linux Ricing and Customizations 🐧
--  Cosmos (and our place in it) 🌌🚀
+- Cosmos (and our place in it) 🌌🚀
 - Physics & Science 🧪👨‍🔬
 
 ### My Weekdays 👔
-I am currently working as a Cloud Services Software Engineer at [SAP](https://www.sap.com/about/company.html) and pursuing my **Bachelors of Computing Science** at [UFV](https://ufv.ca).
+I am currently working as a Software Development Engineer II at Amazon.
 
 ### My Side Hustle 👷‍♂⚡
 - Natural Language Processing and Deep Learning 🔢
