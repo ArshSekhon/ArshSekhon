@@ -44,22 +44,6 @@ I enjoy building end-to-end, refining details, and exploring ideas that sit some
 
 ---
 
-## 🔥 What drives me
-
-I like hard problems, deep dives, and systems that make you earn the solution.
-
-I care about:
-- depth
-- taste
-- curiosity
-- real-world impact
-
-I’m not interested in shipping the obvious version.
-
-I want to build the version that feels inevitable in hindsight.
-
----
-
 ## 🌍 Find me
 
 - 🌐 [Website](https://arshsekhon.com)
