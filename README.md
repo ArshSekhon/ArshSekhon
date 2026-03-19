@@ -1,4 +1,4 @@
-# Hey, I’m Arsh Sekhon 👋
+# I’m Arsh Sekhon 👋
 
 🚀 I build ambitious systems that push the boundaries of scale, intelligence, and user experience.
 
