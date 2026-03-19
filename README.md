@@ -1,29 +1,68 @@
-## 👋🏻 I'm Arsh Sekhon
+# Hey, I’m Arsh Sekhon 👋
 
-I am a Software Developer with **more than 4 years of experience** of developing **enterprise scale software**.
+🚀 I build ambitious systems that push the boundaries of scale, intelligence, and user experience.
 
-### My Software Development Philosophy 💻💭
-- Writing good software is more of a craft than a science. 
-- Like any other crafts, it takes time, patience and practice to master it. 
-- Each piece of code is a reflection of the artist/author and their skillset at the time they wrote it.
+I’m a **Senior Software Development Engineer at Amazon**, working on **personalization systems** behind next-gen experiences across Amazon, including areas connected to **Alexa** and **Rufus**.
 
+I’m at my best when the problem is deep, cross-cutting, and hard to get right — the kind that rewards strong technical judgment, first-principles thinking, and real ownership.
 
-### What's on my mind? 🧠💬
-I love chatting about:
--  Software Design and Architecture 💻📐
-- Clean Code & Design Principles 👩‍💻🧼
-- Custom Mechanical Keyboards ⌨️ 
-- Art & Graphics Design 🎨🖼 
-- Linux Ricing and Customizations 🐧
-- Cosmos (and our place in it) 🌌🚀
-- Physics & Science 🧪👨‍🔬
+---
 
-### My Weekdays 👔
-I am currently working as a Software Development Engineer II at Amazon.
+## 💼 Professional
 
-### My Side Hustle 👷‍♂⚡
-- Natural Language Processing and Deep Learning 🔢
-- Robotics 🤖
+Over the years, I’ve worked across the stack — from customer-facing experiences to backend platforms, identity, and intelligent systems — stepping into whatever layer the problem demanded.
 
-### Find Me @ 🌐🤙
-[Website](https://arshsekhon.com) | [Github](https://github.com/ArshSekhon) | [LinkedIn](https://www.linkedin.com/in/arsh-sekhon/) | [Email](mailto:arshs3khon@gmail.com) | [Instagram](https://www.instagram.com/sincerely_arsh/) 
+I’m especially drawn to:
+
+- 🧠 **Personalization and intelligent systems**
+- ⚙️ **Distributed systems, backend architecture, and platform design**
+- 📱 **Building across layers**, from product surfaces to deep systems work
+- 🔐 **Trust- and correctness-sensitive systems** where quality really matters
+
+I like engineering where the experience feels simple on the surface, but the system underneath is doing something serious.
+
+---
+
+## 🛠️ Personal
+
+Outside of work, I’m just as curious.
+
+I like going under the hood, understanding how things actually work, and pushing them further than they were originally meant to go.
+
+That usually pulls me into:
+
+- ☸️ **Homelab infrastructure**
+- 🌐 **Kubernetes, routing, networking, and self-hosted tools**
+- ⌨️ **Mechanical keyboards and custom setups**
+- 🔌 **Electronics, DIY builds, and hands-on tinkering**
+- 🤖 **Robotics and intelligent machines**
+- 🌌 **Astrophysics, the cosmos, and big-picture questions**
+- 🧠 **Philosophy, meaning, and first-principles thinking**
+- 🎨 **Design, product feel, and digital craftsmanship**
+
+I enjoy building end-to-end, refining details, and exploring ideas that sit somewhere between engineering, design, and curiosity about how the world works.
+
+---
+
+## 🔥 What drives me
+
+I like hard problems, deep dives, and systems that make you earn the solution.
+
+I care about:
+- depth
+- taste
+- curiosity
+- real-world impact
+
+I’m not interested in shipping the obvious version.
+
+I want to build the version that feels inevitable in hindsight.
+
+---
+
+## 🌍 Find me
+
+- 🌐 [Website](https://arshsekhon.com)
+- 💻 [GitHub](https://github.com/ArshSekhon)
+- 💼 [LinkedIn](https://www.linkedin.com/in/arsh-sekhon/)
+- ✉️ [Email](mailto:arshs3khon@gmail.com)
